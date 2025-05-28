@@ -4,3 +4,4 @@ locust
 pybrowserid
 pyjwt
 sqlalchemy
+flask-cors>=6.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
