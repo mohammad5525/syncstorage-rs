@@ -14,3 +14,4 @@ sqlalchemy==1.4.46
 tokenlib
 webtest
 wsgiproxy2
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
