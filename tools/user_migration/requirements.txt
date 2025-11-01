@@ -1,3 +1,4 @@
 wheel
 google-cloud-spanner
 mysql-connector
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
