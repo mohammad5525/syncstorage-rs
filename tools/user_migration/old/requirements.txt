@@ -2,3 +2,4 @@ wheel
 avro-python3
 google-cloud-spanner
 mysql-connector
+sqlparse>=0.5.4 # not directly required, pinned by Snyk to avoid a vulnerability
